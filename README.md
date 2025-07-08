@@ -11,4 +11,4 @@
 在这些平台，用户能够根据影片类型、主演等筛选条件，迅速找到心仪的内容。每个视频都附带详细信息，包括播放时间、演员阵容和画质等，确保用户享受最佳的观影体验。平台还提供高清播放，并根据网络状况自动优化画质，确保播放流畅。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/thuy20250708/thuy13 ）</span>
